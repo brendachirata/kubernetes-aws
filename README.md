@@ -1,0 +1,1 @@
+This is my work on kubernetes on cloud AWS. Most of the work here is found on Richard Chesterwood's github. I was following his tutorial on Udemy called Kubernetes Hands-On - Deploy Microservices to the AWS Cloud. 
